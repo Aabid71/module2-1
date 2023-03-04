@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,900;1,100;1,200;1,500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar , .mm{
+    border: 0.02px solid rgb(71, 71, 71);
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(23, 5, 5);
+}
+
+.modal-footer{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+textarea{
+    height: 9rem;
+}
+
